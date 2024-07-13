@@ -29,3 +29,7 @@ class Docker implements Serializable {
     }
 
 }
+
+
+
+// Use triple quotes and escaped variables for proper interpolation line 20
